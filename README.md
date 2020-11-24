@@ -7,3 +7,14 @@
 [<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+Open Source Contributor from <b>Pakistan<b> 💚
+
+[quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
+[twitter]: https://www.twitter.com/mhamzadev/
+[linkedin]: https://www.linkedin.com/in/mhamzadev/
+[instagram]: https://www.instagram.com/mhamzadev/
+[medium]: https://medium.com/@hamza.6.shakeel
+[facebook]: https://www.facebook.com/mhamzadev
+[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
+[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
+[profile]: http://m-hamzashakeel.github.io
