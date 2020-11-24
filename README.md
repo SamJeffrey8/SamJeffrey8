@@ -7,7 +7,3 @@
 [<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-### A Student, Developer & Writer
-
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
