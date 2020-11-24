@@ -12,6 +12,17 @@
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
+#### Talking about my personal stuff:
+
+- 🙋‍♂️ Executive App Developer, Software Mechanics
+- 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
+- ✍ I also do technical writing on Medium
+- 📱 First Live app on Play Store coming soon.
+- ✨ I'm learning Front-End Development, AR & ML
+- 📄 [Resume][profile]
+
+
+
 <summary>📝 My GitHub Stats</summary>
 <br>
 
