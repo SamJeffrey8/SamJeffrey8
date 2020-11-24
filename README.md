@@ -41,9 +41,9 @@
 Open Source Contributor from <b>Pakistan<b> 💚
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
-[twitter]: https://www.twitter.com/mhamzadev/
-[linkedin]: https://www.linkedin.com/in/mhamzadev/
-[instagram]: https://www.instagram.com/mhamzadev/
-[medium]: https://medium.com/@hamza.6.shakeel
+[twitter]: https://www.twitter.com/Spinozious/
+[linkedin]: https://www.linkedin.com/in/sam-jeffrey-2091731a7/
+[instagram]: https://www.instagram.com/samjefree/
+[medium]: https://medium.com/@sam.8.jy
 [facebook]: https://www.facebook.com/mhamzadev
 [profile]: http://m-hamzashakeel.github.io
