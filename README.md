@@ -7,6 +7,14 @@
 [<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&theme=gotham)](https://github.com/m-hamzashakeel/github-readme-stats)
+
+
+
 Open Source Contributor from <b>Pakistan<b> 💚
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
