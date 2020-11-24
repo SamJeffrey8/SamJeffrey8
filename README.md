@@ -34,7 +34,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&theme=gotham)](https://github.com/m-hamzashakeel/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=SamJeffrey8&theme=gotham)](https://github.com/SamJeffrey8/github-readme-stats)
 
 
 
@@ -46,6 +46,4 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [instagram]: https://www.instagram.com/mhamzadev/
 [medium]: https://medium.com/@hamza.6.shakeel
 [facebook]: https://www.facebook.com/mhamzadev
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
 [profile]: http://m-hamzashakeel.github.io
