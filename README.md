@@ -38,7 +38,7 @@
 
 
 
-Open Source Contributor from <b>Pakistan<b> 💚
+Open Source Contributor from <b>India<b> 💻
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/Spinozious/
