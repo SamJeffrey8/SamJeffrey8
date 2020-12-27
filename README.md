@@ -14,11 +14,11 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Executive App Developer, Software Mechanics
+
 - 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
 - ✍ I also do technical writing on Medium
 - 📱 First Live app on Play Store coming soon.
-- ✨ I'm learning Front-End Development, AR & ML
+- ✨ I'm learning Flutter Full Stack Development, AR & ML
 - 📄 [Resume][profile]
 
 ### Languages & Tools
