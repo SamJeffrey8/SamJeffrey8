@@ -6,7 +6,7 @@
 [<img align="left" alt="m-hamzashakeel | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 [<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium]
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=SamJeffrey8.SamJeffrey8)
 
 ### A Student, Developer & Writer
 
@@ -34,7 +34,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=SamJeffrey8&theme=gotham)](https://github.com/SamJeffrey8/github-readme-stats)
+[![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamJeffrey8&theme=gotham)](https://github.com/SamJeffrey8/github-readme-stats)
 
 
 
@@ -46,4 +46,4 @@ Open Source Contributor from <b>India<b> 💻
 [instagram]: https://www.instagram.com/samjefree/
 [medium]: https://medium.com/@sam.8.jy
 [facebook]: https://www.facebook.com/mhamzadev
-[profile]: http://m-hamzashakeel.github.io
+[profile]: http://github.com/SamJeffrey8
