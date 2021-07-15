@@ -8,14 +8,14 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-### A Student, Developer & Writer
+### A Student, Tech Entrepreneur & Writer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-#### Talking about my personal stuff:
+#### About Me:
 
 
-<summary>3rd Rank in Computational Agriculture Competition 2020 by IIT Bombay & Mathworks</summary>
+<summary>3rd Rank in Computational Agriculture Competition 2020 by Mathworks & IIT Bombay in Asia's largest Techfest</summary>
 <summary>Built India's first ever Ecommerce and Digital Marketing Platform for Street Vendors</summary>
 <summary>Featured in Young Minds 2021 by Society for Space Education Research and Development</summary>
 <summary>3rd Place in Ideathon 2020 at VIT, Vellore powered by Google</summary>
@@ -24,17 +24,7 @@
 <summary>2nd in Place Hackomania 2021 by AEE, VIT Vellore</summary>
 <summary>📄 [More About Me on This SIte][profile]</summary>
 
-### Languages & Tools
-
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-<summary>📝 My GitHub Stats</summary>
+<summary>📝GitHub Stats</summary>
 <br>
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=SamJeffrey8&theme=gotham)](https://github.com/SamJeffrey8/github-readme-stats)
