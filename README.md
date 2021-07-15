@@ -15,14 +15,14 @@
 #### Talking about my personal stuff:
 
 
-  3rd Rank in Computational Agriculture Competition 2020 by IIT Bombay & Mathworks 
-  Built India's first ever Ecommerce and Digital Marketing Platform for Street Vendors
-  Featured in Young Minds 2021 by Society for Space Education Research and Development
-  3rd Place in Ideathon 2020 at VIT, Vellore powered by Google
-  Built softwares for my school, local organizations and businesses
-  Awarded Child Scientist 2019 from DST Govt. of India
-  2nd in Place Hackomania 2021 by AEE, VIT Vellore
-  📄 [More About Me on This SIte][profile]
+<summary>3rd Rank in Computational Agriculture Competition 2020 by IIT Bombay & Mathworks</summary>
+<summary>Built India's first ever Ecommerce and Digital Marketing Platform for Street Vendors</summary>
+<summary>Featured in Young Minds 2021 by Society for Space Education Research and Development</summary>
+<summary>3rd Place in Ideathon 2020 at VIT, Vellore powered by Google</summary>
+<summary>Built softwares for my school, local organizations and businesses</summary>
+<summary>Awarded Child Scientist 2019 from DST Govt. of India</summary>
+<summary>2nd in Place Hackomania 2021 by AEE, VIT Vellore</summary>
+<summary>📄 [More About Me on This SIte][profile]</summary>
 
 ### Languages & Tools
 
