@@ -15,11 +15,14 @@
 #### Talking about my personal stuff:
 
 
-- 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
-- ✍ I also do technical writing on Medium
-- 📱 First Live app on Play Store coming soon.
-- ✨ I'm learning Flutter Full Stack Development, AR & ML
-- 📄 [More About Me on This SIte][profile]
+  3rd Rank in Computational Agriculture Competition 2020 by IIT Bombay & Mathworks 
+  Built India's first ever Ecommerce and Digital Marketing Platform for Street Vendors
+  Featured in Young Minds 2021 by Society for Space Education Research and Development
+  3rd Place in Ideathon 2020 at VIT, Vellore powered by Google
+  Built softwares for my school, local organizations and businesses
+  Awarded Child Scientist 2019 from DST Govt. of India
+  2nd in Place Hackomania 2021 by AEE, VIT Vellore
+  📄 [More About Me on This SIte][profile]
 
 ### Languages & Tools
 
@@ -38,9 +41,8 @@
 
 
 
-Open Source Contributor from <b>India<b> 💻
 
-[quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
+
 [twitter]: https://www.twitter.com/Spinozious/
 [linkedin]: https://www.linkedin.com/in/sam-jeffrey-2091731a7/
 [instagram]: https://www.instagram.com/samjefree/
