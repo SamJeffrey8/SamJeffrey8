@@ -19,7 +19,7 @@
 - ✍ I also do technical writing on Medium
 - 📱 First Live app on Play Store coming soon.
 - ✨ I'm learning Flutter Full Stack Development, AR & ML
-- 📄 [Resume][profile]
+- 📄 [More About Me on This SIte][profile]
 
 ### Languages & Tools
 
@@ -46,4 +46,4 @@ Open Source Contributor from <b>India<b> 💻
 [instagram]: https://www.instagram.com/samjefree/
 [medium]: https://medium.com/@sam.8.jy
 [facebook]: https://www.facebook.com/mhamzadev
-[profile]: http://m-hamzashakeel.github.io
+[profile]: https://samjeffrey.web.app/
