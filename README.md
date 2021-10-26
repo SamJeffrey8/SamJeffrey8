@@ -10,8 +10,6 @@
 
 ### A Student, Tech Entrepreneur & Writer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
 #### About Me:
 
 
