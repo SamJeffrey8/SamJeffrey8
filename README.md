@@ -20,12 +20,12 @@
 <summary>Built softwares for my school, local organizations and businesses</summary>
 <summary>Awarded Child Scientist 2019 from DST Govt. of India</summary>
 <summary>2nd in Place Hackomania 2021 by AEE, VIT Vellore</summary>
-<summary>📄 [More About Me on This SIte] [profile] </summary>
+<summary>📄More About Me on This Site https://samjeffrey.web.app/ </summary>
 <br>
 📝GitHub Stats
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=SamJeffrey8&theme=gotham)](https://github.com/SamJeffrey8/github-readme-stats)
+[![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamJeffrey8&theme=gotham)](https://github.com/SamJeffrey8/github-readme-stats)
 
 
 
